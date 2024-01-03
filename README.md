@@ -2,9 +2,10 @@
 
 ## Overview
 
-In the bustling city of London, the avocado toast has become a breakfast staple. With its rise in popularity, understanding the intricacies of its supply chain becomes crucial. This project delves into a supply chain analysis of three key ingredients: avocados, olive oil, and sourdough bread, sourced from the Open Food Facts database.
+In the bustling city of London, avocado toast has become a breakfast staple. With its rise in popularity, understanding the intricacies of its supply chain becomes crucial. This project delves into a supply chain analysis of three key ingredients: avocados, olive oil, and sourdough bread, sourced from the Open Food Facts database.
 
-![Avocado Toast Wallpaper](avocado_wallpaper.jpeg)
+![Avacado Toast](https://github.com/shafikul-islam/Avocado-Toast-A-Supply-Chain-Analysis/assets/71374967/777e13e8-81fb-41d8-8658-36ac5ba619dd)
+
 
 
 ## Objective
