@@ -6,6 +6,7 @@ In the bustling city of London, the avocado toast has become a breakfast staple.
 
 ![Avocado Toast Wallpaper](avocado_wallpaper.jpeg)
 
+
 ## Objective
 
 The primary goal is to determine the most common country(s) of origin for the three ingredients. This involves data manipulation, analysis, and filtering based on specific categories and tags.
